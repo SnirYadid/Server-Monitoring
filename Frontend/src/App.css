@@ -1,0 +1,23 @@
+.memInfo {
+  padding: 40px 15%;
+  text-align: center;
+  height: auto;
+}
+.Dstorge {
+  padding: 40px 15%;
+  text-align: center;
+  height: auto;
+}
+.PROCESS {
+  height: 300px;
+}
+.text-center {
+  margin-bottom: 40px;
+}
+.header a {
+  color: aliceblue;
+}
+.PROCESS {
+  font-size: 2em;
+  font-family: "Oswald Regular", Impact, Verdana, sans-serif;
+}
